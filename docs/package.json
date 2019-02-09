@@ -1,24 +1,25 @@
 {
-  "name": "coursera_react",
-  "version": "1.0.0",
-  "description": "This is directory to learn React",
-  "main": "index.html",
+  "name": "doc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-scripts": "2.1.3"
+  },
   "scripts": {
-    "start":"npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dereky1/coursera_react.git"
+  "eslintConfig": {
+    "extends": "react-app"
   },
-  "author": "Derek Yang",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dereky1/coursera_react/issues"
-  },
-  "homepage": "https://github.com/dereky1/coursera_react#readme",
-  "devDependencies": {
-    "lite-server": "^2.4.0"
-  }
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
