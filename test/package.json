@@ -1,0 +1,24 @@
+{
+  "name": "coursera_react",
+  "version": "1.0.0",
+  "description": "This is directory to learn React",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dereky1/coursera_react.git"
+  },
+  "author": "Derek Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dereky1/coursera_react/issues"
+  },
+  "homepage": "https://github.com/dereky1/coursera_react#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
