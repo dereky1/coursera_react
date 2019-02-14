@@ -1,0 +1,4 @@
+the goal of assignment 1 was to separate the onclick rendering from the menu render. we had to create a new component that imported the menu so our components will be modular. screenshots of end results are named after assignment_1
+
+
+the goal of assignment 2 was to integrate the about us page into our react app by including its component into our navigation. we also had to import the leaders JSON data into a media table that displayed the information. screenshots are named after assignment_2.

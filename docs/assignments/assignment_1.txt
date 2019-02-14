@@ -1,1 +1,0 @@
-the goal of assignment 1 was to separate the onclick rendering from the menu render. we had to create a new component that imported the menu so our components will be modular. screenshots of end results can be are named after assignment_1
