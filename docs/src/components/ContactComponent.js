@@ -90,7 +90,7 @@ class Contact extends Component {
                       }}/>
                     <Errors className="text-danger" model=".lastname" show="touched"
                       messages={{
-                        required: 'Required',
+                        required: 'Required ',
                         minLength: 'Must be greater than 2 characters ',
                         maxLength: 'Must be 15 characters or less '}} />
                   </Col>
@@ -119,7 +119,7 @@ class Contact extends Component {
                       }}/>
                     <Errors className="text-danger" model=".email" show="touched"
                       messages={{
-                        required: 'Required',
+                        required: 'Required ',
                         validEmail: 'Invalid Email Address '}} />
                   </Col>
                 </Row>
