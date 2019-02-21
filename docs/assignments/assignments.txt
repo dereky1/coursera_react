@@ -3,4 +3,8 @@ the goal of assignment 1 was to separate the onclick rendering from the menu ren
 
 the goal of assignment 2 was to integrate the about us page into our react app by including its component into our navigation. we also had to import the leaders JSON data into a media table that displayed the information. screenshots are named after assignment_2.
 
+
 the goal of assignment 3 was to create a button in the menu details section for the user to add comments. we created the button to trigger a modal to allow for user input. the fields in the modal check for verification of correct input. screenshots are named after assignment_3.
+
+
+the goal of assignment 4 was to fetch the leaders data from the json server and load the information into the corresponding fields using redux actions in our react code so the code relies on the server instead of having all the information in the local directory. screenshots are named after assignment_4.
