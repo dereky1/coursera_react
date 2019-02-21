@@ -201,6 +201,14 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "Dave Kim",
+      "comment": "I love korean pizza~!!!",
+      "date": "2019-02-20T23:41:01.141Z",
+      "id": 20
     }
   ],
   "promotions": [
@@ -263,6 +271,66 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": "Dave",
+      "lastname": "Kim",
+      "telnum": "5105555155",
+      "email": "davekim@gmail.kr",
+      "agree": true,
+      "contactType": "Email",
+      "message": "This is a test",
+      "id": 2
+    },
+    {
+      "firstname": "Kristy",
+      "lastname": "Lee",
+      "telnum": "5122116548",
+      "email": "kristy@haha.org",
+      "agree": false,
+      "contactType": "Email",
+      "message": "This is another test",
+      "id": 3
+    },
+    {
+      "firstname": "Jackie",
+      "lastname": "Chan",
+      "telnum": "5102133215",
+      "email": "chenglong@hollywood.hk",
+      "agree": true,
+      "contactType": "Tel.",
+      "message": "This is yet another test",
+      "id": 4
+    },
+    {
+      "firstname": "Dave",
+      "lastname": "Kim",
+      "telnum": "5661654654",
+      "email": "dajhsgdja@jksagdka.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "sadasdhjasdjhas",
+      "id": 5
+    },
+    {
+      "firstname": "sda",
+      "lastname": "sadas",
+      "telnum": "55612516351",
+      "email": "asdasjkdn@aslkdnmas.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "dasasasasd",
+      "id": 6
+    },
+    {
+      "firstname": "sad",
+      "lastname": "asdasd",
+      "telnum": "153135",
+      "email": "sadasd@gmail.com",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "asdjhasjbhda",
+      "id": 7
     }
   ]
 }
